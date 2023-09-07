@@ -38,24 +38,5 @@
 
 17. Write a program to count the number of digits in a decimal number.
 
-18. Write a program to display a half pyramid using stars pattern.
-    *
-    * *
-    * * *
-    * * * *
-    * * * * *
 
-19. Write a program to display inverted half pyramid using stars pattern.
-    * * * * *
-    * * * *
-    * * *
-    * *
-    *
-    
-20. Write a program to display a full pyramid using stars pattern.
-       *
-      ***
-     *****
-    *******
-   *********
-   
+
