@@ -4,16 +4,15 @@ Welcome to the **CCodeQnA** repository! 🚀 This repository is dedicated to pro
 
 ## Table of Contents
 
-1. [Introduction to C](#introductionToC)
+1. [Introduction to C](https://github.com/Salahbendary/CCodeQnA/tree/main/Introduction%20To%20C)
 2. [Functions](#Functions)
 3. [Arrays](#Arrays)
 4. [Ponters](#Pointers)
 5. [Structures](#Structures)
 6. [Linked List](#LinkedList)
 
-
 Happy coding! 🖥️💡
 
----
+--
 
 *Last updated on 2023-09-07 20:39:00 CET*
