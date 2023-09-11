@@ -8,8 +8,8 @@
 2. Write a program that prints your name and your grade in a new line.
 
 3. Write a program for converting temperature from degrees Celsius to degrees Fahrenheit, given the formula:
-   F = (C x 9/5) + 32
 
+   F = (C x 9/5) + 32
 4. Write a program that reads the radius of a circle and calculates the area and circumference, then prints the results.
 
 5. Write a program to print the ASCII value of a character input by the user.
